@@ -26,7 +26,7 @@ The analysis was conducted based on:
 Surya **outperforms** GCP in text extraction, offering better readability and structure. While GCP requires more post-processing, Surya delivers more accurate and usable results.
 
 ## Report
-You can read the full report [here](./best_model_between_surya_and_gcp.pdf).
+You can read the full report [here](https://github.com/ya-sonia/Surya-and-GCP-OCR-Model-Comparison/blob/main/Excel_sheet_of_analysis_AND_best_model_suggest/best_model_between_surya_and%20gcp.pdf).
 
 ---
 📌 **Author**: Sonia Yadav  
