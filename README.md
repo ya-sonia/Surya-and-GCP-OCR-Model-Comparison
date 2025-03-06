@@ -34,7 +34,7 @@ The dataset and analysis used for evaluating the models can be accessed in the *
 
 
 ## Report
-You can read the full report [here]().
+You can read the full report [here](Excel_sheet_of_analysis_AND_best_model_suggest/Sonia-IITMadras_Report.pdf).
 
 ---
 📌 **Author**: Sonia Yadav  
