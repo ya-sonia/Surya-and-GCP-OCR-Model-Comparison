@@ -25,7 +25,7 @@ The analysis was conducted based on:
 
 ## Conclusion
 Based on the analysis of OCR errors in Telugu, Gujarati, and Odia, 
-**Google Cloud Vision (GCP)**OCR is the best overall model due to its higher accuracy, better word segmentation, 
+**Google Cloud Vision (GCP)** OCR is the best overall model due to its higher accuracy, better word segmentation, 
 and multi-language support compared to Surya. However, GCP still has issues with missing digits, incorrect 
 spacing, and punctuation handling, which can impact its reliability for certain applications.
 
